@@ -14,7 +14,7 @@ financial-time-series-analysis/
 │   ├── baseline.ipynb            # Baseline model implementation
 │   ├── CoST_model.ipynb          # CoST model implementation
 │   ├── ts-tcc.ipynb              # Time Series Temporal Contrastive Coding (TS-TCC) 
-│   └── tnc.ipynb                  # Time Series Classification (TC) implementation
+│   └── tnc.ipynb                 # Time Series Classification (TC) implementation
 ├── README.md                     # This file
 ```
 
@@ -36,17 +36,10 @@ The preprocessed dataset (`final_data.csv`) is required to run the notebooks. It
 - **Sectoral Data**: XLK (Technology), XLF (Financial), XLV (Healthcare), XLE (Energy), XLY (Consumer Discretionary), XLI (Industrial).
 
 Download the dataset from the `data` folder or use the following link:  
-[Download final_data.csv](https://your-dataset-link/final_data.csv)
+[Download final_data.csv](https://github.com/pragati2526/MLP-CW4/blob/master/data/final_data.csv)
 
 Place the downloaded `final_data.csv` file in the `data` folder.
 
-### 3. Set Up the Environment
-
-Install the required Python dependencies using the provided `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
-```
 
 ### 4. Run the Notebooks
 
