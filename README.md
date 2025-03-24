@@ -1,6 +1,5 @@
 # MLP-CW4
 
-```markdown
 # Market Regime Prediction Using Self-Supervised Learning: A Contrastive Approach
 
 This repository contains code for Market Regime Prediction using the baseline, **CoST (Contrastive Learning for Time Series)** model, **Time Series Temporal Contrastive Coding (TS-TCC)**, and **Temporal Neighborhood Coding (TNC)** . The models are applied to S&P 500 index data and sectoral data (XLK, XLF, XLV, XLE, XLY, XLI).
