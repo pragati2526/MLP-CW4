@@ -13,7 +13,7 @@ financial-time-series-analysis/
 ├── notebooks/
 │   ├── baseline.ipynb            # Baseline model implementation
 │   ├── CoST_model.ipynb          # CoST model implementation
-│   ├── ts-tcc.ipynb              # Time Series Temporal Contrastive Coding (TS-TCC) 
+│   ├── ts_tcc.ipynb              # Time Series Temporal Contrastive Coding (TS-TCC) 
 │   └── tnc.ipynb                 # Time Series Classification (TC) implementation
 ├── README.md                     # This file
 ```
@@ -86,8 +86,8 @@ The `final_data.csv` file contains the following columns:
 - Captures both seasonal and trend components in the time series data.
 - Uses contrastive learning to improve representation learning.
 
-### 3. TS-TCC Model (`ts-tcc.ipynb`)
-- Implements **Time Series Temporal Contrastive Coding (TS-TCC)**.
+### 3. TS-TCC Model (`ts_tcc.ipynb`)
+- Implements **Time Series Temporal Contrastive Coding (T-_TCC)**.
 - Focuses on temporal contrastive learning for time series data.
 
 ### 4.TNC Model (`TNC.ipynb`)
