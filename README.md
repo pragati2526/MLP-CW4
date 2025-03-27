@@ -86,7 +86,7 @@ The `final_data.csv` file contains the following columns:
 - Captures both seasonal and trend components in the time series data.
 - Uses contrastive learning to improve representation learning.
 
-### 3. TS-TCC Model (`ts_tcc.ipynb`)
+### 3. TS-TCC Model (`ts-tcc.ipynb`)
 - Implements **Time Series Temporal Contrastive Coding (TS-TCC)**.
 - Focuses on temporal contrastive learning for time series data.
 
